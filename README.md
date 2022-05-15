@@ -20,4 +20,4 @@ Admin Login: Admin can approve and disapprove various ground booking requests, m
 
 
 
-NOTE: CSS/Plugins/Fonts are seperated in Extras Folder, All the content in extras should be extracted in the root directory.
+NOTE: CSS/Plugins/Fonts and other files are separated in Extras Folder, All the content in extras should be extracted in the root directory.
