@@ -18,3 +18,6 @@ Notices: Recent notices can be seen on the start page as they are posted by the 
 
 Admin Login: Admin can approve and disapprove various ground booking requests, may check various members of the club and also people registered for various batches.
 
+
+
+NOTE: CSS/Plugins/Fonts are seperated in Extras Folder, All the content in extras should be extracted in the root directory.
